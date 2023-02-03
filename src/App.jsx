@@ -11,7 +11,7 @@ import ReturnTableHeaderKeys from "./utils/ReturnTableHeaderKeys";
 
 // ako zelite prikazivati podatke ako je poslan template prop zamjenite "data" sa "dataTemplate"
 // ako zelite prikazivati moguce podatke sa vecim dephtom zamjenite "data" sa "possibleData"
-// htio bih napraviti rekurzivnu funkciju cak i ako se korisit possibleData
+// htio bih napraviti rekurzivnu funkciju koja ce prikazivati podatke cak i ako se korisit possibleData
 
 // razlog zasto se koristi "Object.Entries" i vecinom ne definirana imena je zato sto
 // koristim componentu na razlicitim mjestima sa razlicitim lista objekata
